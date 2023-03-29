@@ -1,0 +1,2 @@
+pikabu.ru#%#function removeADSCRP(){document.querySelectorAll('script').forEach(function(el){if (/llasalbbubrrl/.test(el.innerText)){el.remove()};})};
+pikabu.ru#%#document.addEventListener('DOMContentLoaded', removeADSCRP);
