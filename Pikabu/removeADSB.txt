@@ -1,7 +1,4 @@
-```adblock
-! Example rule
-example.org##.banner
-```
+!nn
 
 pikabu.ru##.sidebar-achievements
 pikabu.ru##.page-story__before-comments > section:has(.tags_multiple)
