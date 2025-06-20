@@ -1,4 +1,0 @@
-pikabu.ru#%#function getSBB(){return document.querySelectorAll('.sidebar-block')};
-pikabu.ru#%#function removeSBB(el){if(el.classList.contains('sidebar-block') && el.classList.length == 1){el.remove()};};
-pikabu.ru#%#function removeADSB(){sbbList = getSBB(); sbbList.forEach(function(el){removeSBB(el)});};
-pikabu.ru#%#document.addEventListener('DOMContentLoaded', removeADSB);
