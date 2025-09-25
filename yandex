@@ -1,0 +1,23 @@
+ya.ru##div.DistrPopup-Content
+ya.ru##span.distr-nav
+ya.ru##div.Distribution-Popup
+ya.ru##.JustifierRowLayout-Incut:has(div.AdvRsyaCrossPage)
+ya.ru##.dist-stripe
+ya.ru##.search3__spacer
+ya.ru##.Distribution
+ya.ru##body > div.Distribution-Splashscreen
+ya.ru##body > div.Modal.Modal_visible.DistributionSplashScreenModal
+ya.ru##body > div.Modal.Modal_visible.Distribution-SplashScreenModal
+ya.ru##.AdvMastHead
+ya.ru##main > div > div[aria-hidden]
+ya.ru##.ImagesViewer-LayoutSideblock > div > div > div:nth-child(2)
+yandex.ru##body > div.Distribution-Splashscreen
+yandex.ru##body > div.Modal.Modal_visible.DistributionSplashScreenModal
+yandex.ru##body > div.Modal.Modal_visible.Distribution-SplashScreenModal
+yandex.ru##.Distribution-SplashScreenModal
+yandex.ru##.Viewer div[class$="Block_bottomRounded"]
+yandex.ru##.Viewer .Viewer-Sidebar > div > div > div:not(.Typo, .VideoPlayerMetaInfo)
+!yandex.ru##.home-panel-content-view__body > * > [aria-hidden="true"]
+yandex.ru##.home-panel-content-view__body div[aria-hidden]
+yandex.ru##div.Distribution-Popup
+yandex.ru##.HeaderDesktopActions-Distribution
