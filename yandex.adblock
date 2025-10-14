@@ -21,6 +21,7 @@ yandex.ru##.Viewer .Viewer-Sidebar > div > div > div:not(.Typo, .VideoPlayerMeta
 yandex.ru##.home-panel-content-view__body div[aria-hidden]
 yandex.ru##div.Distribution-Popup
 yandex.ru##.HeaderDesktopActions-Distribution
+yandex.ru##.content > div:has(div script)
 
 mail.yandex.ru##div[class^="ContentHeader-m__header"] > div:not([data-testid])
 mail.yandex.ru##div[data-testid="page-layout_right-column_container"]
