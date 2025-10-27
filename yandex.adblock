@@ -22,5 +22,7 @@ yandex.ru##.home-panel-content-view__body div[aria-hidden]
 yandex.ru##div.Distribution-Popup
 yandex.ru##.HeaderDesktopActions-Distribution
 yandex.ru##.content > div:has(div script)
+yandex.ru##.AdvMastHead
+
 mail.yandex.ru##div[class^="ContentHeader-m__header"] > div:not([class^="ContentHeader-m__search"]):not([data-testid])
 mail.yandex.ru##div[data-testid="page-layout_right-column_container"]
