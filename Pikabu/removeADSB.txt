@@ -13,3 +13,4 @@ pikabu.ru##.sidebar-block:not(:has(> .sidebar-block__content, .sidebar-block__he
 pikabu.ru##.stories-feed__container > article.story:not(:has(.story__tags))
 pikabu.ru##.stories-feed__container > article[data-author-name="specials"]
 pikabu.ru##.stories-feed__container > article.story:has(.story__sponsor_disclaimer)
+pikabu.ru#%#//scriptlet('remove-attr', 'href', 'a[href*="ads.adfox.ru"]')
